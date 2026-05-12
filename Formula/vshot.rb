@@ -1,8 +1,8 @@
 class Vshot < Formula
   desc "Video frame extraction for AI — one montage, one Read() call"
   homepage "https://github.com/ClaudeCodeCafe/vshot"
-  url "https://github.com/ClaudeCodeCafe/vshot/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "94ce9dfa9f8d05f5f647016398b2d932ab8fdbf0e98497653fb8a4b4afbf4b76"
+  url "https://github.com/ClaudeCodeCafe/vshot/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ec27a00b0a84b01ed427aaf6dab8e6a248f3a580fc5897af08f38444779e56d8"
   license "MIT"
 
   depends_on "ffmpeg"
